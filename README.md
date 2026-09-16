@@ -8,6 +8,6 @@ References:
 
 - Oudart, D., P. Robin, J. M. Paillat, et E. Paul. 2015. « Modelling nitrogen and carbon interactions in composting of animal manure in naturally aerated piles ». *Waste Management* 46 (décembre): 588‑98. https://doi.org/10.1016/j.wasman.2015.07.044.
 
-- Oudart, Didier. 2013. « Modélisation de la stabilisation de la matière organique et des émissions gazeuses au cours du compostage d'effluents d'élevage ». INSA de Toulouse.
+- Oudart, Didier. 2013. « Modélisation de la stabilisation de la matière organique et des émissions gazeuses au cours du compostage d'effluents d'élevage ». INSA de Toulouse. https://theses.hal.science/file/index/docid/935691/filename/DOudart_these2013.pdf.
 
 - Robin, Paul, Didier Oudart, Jean-Marie Paillat, et al. 2019. « MEGASMOC, modèle et base de données pour représenter les processus physiques et biologiques dans un « tas » de matière organiques ». *Recherche Data Gouv*, novembre 21. https://doi.org/10.15454/YAKUH6.
