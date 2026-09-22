@@ -11,3 +11,7 @@ References:
 - Oudart, Didier. 2013. « Modélisation de la stabilisation de la matière organique et des émissions gazeuses au cours du compostage d'effluents d'élevage ». INSA de Toulouse. https://theses.hal.science/file/index/docid/935691/filename/DOudart_these2013.pdf.
 
 - Robin, Paul, Didier Oudart, Jean-Marie Paillat, et al. 2019. « MEGASMOC, modèle et base de données pour représenter les processus physiques et biologiques dans un « tas » de matière organiques ». *Recherche Data Gouv*, novembre 21. https://doi.org/10.15454/YAKUH6.
+
+- Sobol I. M. 2001. « Global sensitivity indices for nonlinear mathematical models and their Monte Carlo estimates ». Mathematics and Computers in Simulation, The Second IMACS Seminar on Monte Carlo Methods, vol. 55 (1): 271‑80. https://doi.org/10.1016/S0378-4754(00)00270-6. Alternatively: https://www.andreasaltelli.eu/file/repository/sobol1993.pdf.
+
+
